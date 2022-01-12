@@ -36,6 +36,5 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/soouzafeh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/Soouzafeh/soouzafeh/blob/output/github-contribution-grid-snake.svg)
   
  
